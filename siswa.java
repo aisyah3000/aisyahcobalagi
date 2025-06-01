@@ -2,8 +2,8 @@ public class siswa {
     String nama;
     siswa berikutnya;
 
-    // buat constructor sendiri
-    // default constructor tidak dibuat JVM
+    // karena kita buat constructor sendiri
+    // maka default constructor tidak dibuatkan oleh JVM
     /*
     public siswa(){
 
